@@ -9,7 +9,7 @@ To get started with the project, you'll need to have an SQL database management 
 
 Once you have the database management system installed, you can clone this repository to your local machine using the following command:
 
-'git clone https://github.com/ateethkj1592/Vaccination-Database-Management-System.git'
+'''git clone https://github.com/ateethkj1592/Vaccination-Database-Management-System.git'''
 
 ### Database Structure
 The world vaccination database contains the following tables:
