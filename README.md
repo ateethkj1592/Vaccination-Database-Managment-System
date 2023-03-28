@@ -9,7 +9,7 @@ To get started with the project, you'll need to have an SQL database management 
 
 Once you have the database management system installed, you can clone this repository to your local machine using the following command:
 
-'''git clone https://github.com/ateethkj1592/Vaccination-Database-Management-System.git'''
+git clone https://github.com/ateethkj1592/Vaccination-Database-Management-System.git
 
 ### Database Structure
 The world vaccination database contains the following tables:
@@ -27,10 +27,10 @@ This table contains information on the number of vaccinations administered in ea
 Here are some sample queries that you can run on the world vaccination database:
 
 ### Query 1: Get the name and manufacturer of all vaccines in the database
-'SELECT name, manufacturer FROM vaccines;'
+SELECT name, manufacturer FROM vaccines;
 
 ### Query 2: Get the name and population of all countries in the database
-'SELECT name, population FROM countries;'
+SELECT name, population FROM countries;
 
 
 ## Conclusion
